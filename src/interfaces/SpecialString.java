@@ -11,3 +11,5 @@ public abstract class SpecialString implements TextFunkifier{
 		return s;
 	}
 }
+	
+
